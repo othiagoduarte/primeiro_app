@@ -8,3 +8,4 @@ $db = "sfn5si6huyqqshuv";
 
 mysqli_connect($Host, $Username, $Password, $db) or die(mysqli_error());
 echo "Connected to MySQL<br/>";
+echo "Ola mundo";
